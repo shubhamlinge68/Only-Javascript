@@ -1,0 +1,68 @@
+<html>
+    <head>
+        <title>Javascript Assignment No.-1</title>
+
+        <style>
+            .head
+            {
+                background-color: green;
+            }
+            .head-2
+            {
+                text-align: center;
+            }
+            .form
+            {
+                border: 2px solid violet;
+                width: 550px;
+                margin-left: 400px;
+                margin-top: 50px;
+            }
+            .h-2
+            {
+                margin-left: 250px;
+                color: red;
+            }
+            .but
+            {
+                margin-left: 400px;
+                margin-top: 20px;
+                margin-bottom: 15px;
+                width: 100px;
+                font-size: 20px;
+            }
+        </style>
+
+    </head>
+    <body>
+        <div class="head">
+                <h1 class="head-2">Stanley's Pharmacy</h1>
+        </div>
+        <div class="form">
+            <h1 class="h-2">LOGIN</h1>
+            <input type="email" id="email" placeholder="Email Id" style="width: 355px; margin-left: 90px;">
+            <input type="password" id="password" placeholder="Passoword" style="width: 355px; margin-left: 90px; margin-top: 15px;"><br>
+       
+            <button onclick="login()" class="but">Login</button>
+
+        </div>
+
+    <script>
+        function login() 
+        {
+            var email = document.getElementById("email").value;
+
+            var password = document.getElementById("password").value;
+
+            if (password === "1234") 
+            {
+                alert("Login Successful");
+            } else 
+            {
+                alert("Login Failed");
+            }
+        }
+    </script>
+        
+    </body>
+</html>
