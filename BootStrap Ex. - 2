@@ -1,0 +1,59 @@
+<html>
+
+<head>
+    <title>BootSte\rap Ex No.- 2</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+</head>
+
+<body>
+
+    <h1>Web Desigining</h1>
+    <br>
+
+    <div class="mx-5">
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto ab itaque aut dignissimos commodi
+            officia quibusdam exercitationem molestiae? Non optio quidem veniam corporis labore iure. Similique
+            molestiae molestias aliquam consectetur. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam
+            accusantium expedita fugit odit rerum cumque sint, dolores sapiente. Sapiente debitis maxime voluptatibus ab
+            impedit aut fugit nobis ut itaque dolor!</p>
+    </div>
+
+    <h1><span style="color: red;">Androide App</span><span style="color: green;"> development</span></h1>
+    <hr style="border: 1px solid;">
+
+    <h2 class="mx-3">Using Java</h2>
+
+    <p class="mx-5">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laborum obcaecati hic perspiciatis ab,
+        laudantium
+        soluta saepe! Provident perspiciatis non consequatur, laboriosam harum in dicta. Tempore aliquid doloremque quis
+        et libero? Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus in voluptate eveniet rerum,
+        <span style="color: red;">recusandae iure ab assumenda et officiis magni, consectetur illum cupiditate nam
+            voluptates!</span>
+    </p>
+
+    <h2 class="mx-3">Using React-Native</h2>
+
+    <p class="mx-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum porro ut optio ipsa esse?
+        Voluptates mollitia
+        doloremque recusandae voluptatem sapiente. Inventore illum eveniet consequuntur accusanti Lorem ipsum dolor sit
+        amet consectetur adipisicing elit. Enim odit accusantium voluptate, molestias dolorum hic </p>
+
+    <h1 style="margin-left: 200px;">Computer Online Cource</h1>
+    <hr style="margin-right: 600px; margin-left: 200px; border: 2px solid black;">
+    <hr style="margin-right: 450px; margin-left: 50px; border: 2px solid red;">
+
+    <p class="mx-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis sapiente quam provident fugit
+        tempora ducimus
+        vero tempore, impedit, quae rem veritatis, reiciendis vel nulla. Fuga reprehenderit officia tempora illo Lorem
+        ipsum dolor sit amet consectetur, adipisicing elit. Quae vel corrupti nesciunt aspernatur dolores consequatur
+        ducimus perferendis facilis iste voluptatum, libero cum tempore at, porro, quos magni a sit non.
+    </p>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
