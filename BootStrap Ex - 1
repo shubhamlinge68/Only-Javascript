@@ -1,0 +1,53 @@
+<html>
+
+<head>
+    <title>BootStrap Ex. No-1</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+
+</head>
+
+<body>
+    <h1 class="border-3 border p-2 m-3 "> <span class="text-danger">HTML Paragraph </span> <span
+            class="text-success">Spacing </span>and <span class="text-success">Font Style</span></h1>
+    <div class="m-2 p-2">
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magnam blanditiis, natus quia cupiditate asperiores
+            expedita lab</p>
+        <p class="text-success">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellendus unde illo sint
+            temporibus sit corporis ab, laudantium, odio illum </p>
+        <p class="text-primary text-decoration-underline">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Perferendis rem blanditiis autem qui laudantium dolor, omnis similique alias id molestiae odio </p>
+    </div>
+
+    <div class="container border border-2 my-2 p-4" style="width: 800px; justify-content: center;">
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fuga, pariatur deleniti. Repellat aut natus
+            doloremque esse, alias pariatur eaque neque numquam dolorem labore molestiae officiis quibusdam assumenda
+            sint omnis distinctio. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum voluptatibus quod
+            quibusdam quidem officia perferendis molestiae, nulla soluta et quia, dolorum modi possimus culpa debitis
+            animi, ullam nesciunt voluptatum? Vero!</p>
+    </div>
+<br>
+    <p class="border border-2 m-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos explicabo
+        debitis sint similique itaque
+        eligendi soluta enim sequi quod quidem hic aut nam nihil molestias cupiditate, beatae earum a illo! Lorem ipsum
+        dolor sit amet consectetur adipisicing elit. Ut amet sunt distinctio. Incidunt exercitationem odio laudantium
+        itaque
+        tenetur, assumenda ut illo voluptatem quas consequatur a ab fugiat. Consequatur, iste aliquid!</p>
+
+
+    <p class="border border-2" style="margin-top: 100px; width: 700px; margin-left: 1200px;"> <span
+            style="color: red;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati deserunt in
+        nam, exercitationem </span>quod natus
+        explicabo totam quo amet nisi quis, porro blanditiis molestias, neque necessitatibus reiciendis vitae quia
+        consectetur. Lorem ipsum dolo similique delectus aliquam expedita esse? Nisi <span style="margin-left: 570px;">illum quos soluta</span></p>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+        crossorigin="anonymous"></script>
+
+</body>
+
+</html>
