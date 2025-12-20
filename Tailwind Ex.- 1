@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>BootStrap+tailwind Ex. - 1</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+
+<body>
+    <div class="italic">
+        <h1 class="text-4xl font-bold"><span style="color: red;">HTML Paragraph </span> <span style="color: green;">spacing</span>
+            and
+            <span style="color: green;">font Style</span>
+        </h1>
+        <hr>
+
+        <p class="font-style: italic; my-2 m-5 ">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rerum nostrum est impedit. Molestiae, at nobis nulla totam fuga, nemo </p>
+        <p class="font-style: italic; my-2 m-5 text-blue-600 ">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut vero eos modi exercitationem veniam pariatur libero error suscipit, molestiae, et quae ipsam incidunt</p>
+        <p class="font-style: italic; my-2 m-5 text-green-600 underline ">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime no Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla </p>
+        <div class="border w-200 p-4 ms-50 my-10">
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iure velit obcaecati sit voluptas tenetur
+                commodi.
+                Nihil tempora et quis non dolorum provident doloremque aut odio? Deserunt omnis temporibus animi
+                ab?Lorem
+                ipsum dolor sit amet consectetur adipisicing elit. Cumque nam id fugit architecto repellat? Eligendi
+                ratione
+                veniam ea odio voluptas, asperiores, adipisci, consequatur modi vitae nihil sed? Id, sed nobis!</p>
+        </div>
+
+        <p class="border mx-2 justify-end">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt sed, quia facilis,
+            dicta,
+            magni blanditiis
+            numquam eligendi odio a nisi eos dolores accusantium quo totam nobis possimus quasi enim dolorem. Lorem
+            ipsum dolor sit amet consectetur, adipisicing elit. Corporis aut, delectus maiores ad laudantium perferendis
+            consectetur aspernatur quia enim esse tempore quod voluptatum fugiat</p>
+
+        <p class="w-200 border mt-20 ms-118"><span style="color: red;"> Lorem ipsum dolor sit amet, consectetur
+                adipisicing elit. Ut cumque mollitia doloribus blanditiis molestias
+                adipisci</span> <span style="color: blue;"> unde fugiat sit expedita autem distinctio tempore aliquid
+                odio perspiciatis, accusamus nemo! Tempore,
+                accusamus odit. lorem</span></p>
+                
+    </div>
+
+</body>
+
+</html>
