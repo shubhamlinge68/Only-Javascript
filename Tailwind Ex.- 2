@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+
+<body>
+    <h1 class="text-3xl font-bold my-5 ms-5">
+        Web Desiging
+    </h1>
+    <p class="ms-17">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellat soluta temporibus voluptatum, ut
+        sunt corrupti
+        dolores iste error quisquam quam accusantium quia inventore veritatis possimus, distinctio commodi, asperiores
+        illo eos. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor recusandae, ducimus aliquid suscipit
+        animi quo iste voluptate optio eligendi nobis nesciunt perferendis mollitia! Qui, maxime nesciunt explicabo nemo
+        aut mollitia. Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem illum veritatis, nemo
+        dolore aut officia, eum iure velit deserunt nobis ea repellat architecto esse dicta molestiae reiciendis, porro
+        omnis</p>
+
+    <p class="text-3xl font-bold my-5 ms-5"> <span style="color: red;">Android App</span> <span
+            style="color: green;"> Development</span></p>
+    <hr class="-mt-5 ms-5 border">
+
+    <p class="text-2xl font-bold ms-23 m-5">Using Java</p>
+
+    <p class="ms-35 my-2">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et porro, saepe rem quos dicta
+        aliquam deleniti minima,
+        numquam eligendi necessitatibus, ut aut! Repellendus voluptatibus quidem labore omnis laborum perferendis nisi.
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores culpa eveniet ipsa quae accusamus aliquam
+        sunt quo dignissimos. Similique dolorem blanditiis nemo omnis? Similique atque eveniet fuga numquam ea porro.
+        Lorem ipsumoff hjj <span style="color: red;">sit amet consectetur adipisicing elit. Doloribus sequi minima
+            explicabo ex ut quis
+            praesentium nostrum odit dolorem ipsa quae deleniti nobis quaerat</span></p>
+
+    <p class="text-2xl font-bold ms-23">Using React-Native</p>
+
+    <p class="ms-35 my-2">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et porro, saepe rem quos dicta
+        aliquam deleniti minima,
+        numquam eligendi necessitatibus, ut aut! <span style="color: red;">Repellendus voluptatibus quidem labore omnis
+            laborum perferendis nisi.
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores culpa eveniet ipsa</span> quae
+        accusamus aliquam
+        sunt quo dignissimos. Similique dolorem blanditiis nemo omnis? Similique atque eveniet fuga numquam ea porro.
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloribus sequi minima explicabo ex ut quis
+        praesentium nostrum odit dolorem ipsa quae deleniti nobis quaerat</p>
+
+
+    <p class="text-3xl font-bold ms-23 my-5 ">Computer Online Courses</p>
+    <hr class="border ms-22 me-200 -mt-3 ">
+    <hr class="border border-red-400 mt-2 ms-10 me-182">
+    
+    <p class="my-5 ms-10"> <span style="margin-left: 130px;"></span>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Recusandae dolorum explicabo repudiandae vitae
+        molestiae voluptatem quidem doloremque. Aliquid soluta quod facilis quisquam eos velit repellendus nobis
+        corporis? Molestias, magnam. Ad? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error alias omnis
+        delectus totam sed maiores hic ad dolorem, ratione aut laborum adipisci enim? Nesciunt illum omnis libero
+        officiis a rerum! Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias repudiandae molestias incidunt
+        nostrum officia, beatae accusantium quos voluptatibus fugit maxime expedita cupiditate sit eius reprehenderit
+        saepe</p>
+
+        
+    <p class="ms-280 font-bold my-5">-By Shubham</p>
+
+</body>
+</body>
+
+</html>
